@@ -74,19 +74,20 @@ flutter_screenutil (responsive ui)
 
 📦 ScreenShots
 
-![splash Screen](screenshots/splash.jpg)
-
-![user Screen](screenshots/user.jpg)
-![admin Screen](screenshots/admin.jpg)
-
-![login Screen](screenshots/login.jpg)
-![register Screen](screenshots/register.jpg)
+![splash Screen](assets/screenshots/splash.jpg)
 
 
-![role Screen](screenshots/role)
+![user Screen](assets/screenshots/user.jpg)
+![admin Screen](assets/screenshots/admin.jpg)
 
-![add Product Screen](screenshots/add_products.jpg)
-![user Screen](screenshots/add_product.jpg)
+![login Screen](assets/screenshots/login.jpg)
+![register Screen](assets/screenshots/register.jpg)
 
-![update Screen](screenshots/update_ui.jpg)
-![filter ](screenshots/filter.jpg)
+
+![role Screen](assets/screenshots/role)
+
+![add Product Screen](assets/screenshots/add_products.jpg)
+![user Screen](assets/screenshots/add_product.jpg)
+
+![update Screen](assets/screenshots/update_ui.jpg)
+![filter ](assets/screenshots/filter.jpg)
